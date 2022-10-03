@@ -12,6 +12,8 @@ Write Test Cases Feature on:
 - Apply Affiliate
 - Shopping Cart
 - Product search page
+
+See Mind Map for PriyoShop [click here](https://drive.google.com/file/d/138EPRbuNQ6hqinM1dwyW4fuGZN_9dJxA/view?usp=sharing)
 ## 2. MotionView
 Write Test Case Feature on:
 - Registration
