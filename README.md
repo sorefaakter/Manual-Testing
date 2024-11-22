@@ -17,4 +17,4 @@ See Mind Map for PriyoShop [click here](https://drive.google.com/file/d/138EPRbu
 ## 2. MotionView
 Write Test Case Feature on:
 - Registration
-### Also Write Test Plan For PriyoShop
+### Test Plan For PriyoShop
